@@ -1,5 +1,25 @@
 # 📊 Exploratory Data Analysis (EDA) Summary
 
+## 📁 Dataset Features
+
+The dataset includes the following features:
+
+| Feature                  | Description                                                  |
+|--------------------------|--------------------------------------------------------------|
+| `fixed acidity`          | Most acids involved with wine or fixed or nonvolatile        |
+| `volatile acidity`       | Amount of acetic acid in wine (high levels = unpleasant)     |
+| `citric acid`            | Found in small quantities, adds 'freshness' to wines         |
+| `residual sugar`         | Amount of sugar remaining after fermentation stops           |
+| `chlorides`              | Amount of salt in the wine                                   |
+| `free sulfur dioxide`    | Prevents microbial growth                                    |
+| `total sulfur dioxide`   | Sum of free and bound sulfur dioxide                         |
+| `density`                | Density of wine                                              |
+| `pH`                     | How acidic or basic the wine is                              |
+| `sulphates`              | Wine additive which contributes to sulfur dioxide levels     |
+| `alcohol`                | Alcohol percentage of the wine                               |
+| `quality`                | Quality score (3 to 8) given by wine tasters                 |
+
+
 ## 🎯 Target Variable Imbalance
 
 - The target variable `quality` is **imbalanced**:
