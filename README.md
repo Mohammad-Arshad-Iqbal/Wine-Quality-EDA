@@ -1,7 +1,5 @@
 # 📊 Exploratory Data Analysis (EDA) Summary
 
-This document provides insights gained from the EDA performed on the wine quality dataset.
-
 ## 🎯 Target Variable Imbalance
 
 - The target variable `quality` is **imbalanced**:
