@@ -17,7 +17,7 @@ The dataset includes the following features:
 | `pH`                     | How acidic or basic the wine is                              |
 | `sulphates`              | Wine additive which contributes to sulfur dioxide levels     |
 | `alcohol`                | Alcohol percentage of the wine                               |
-| `quality`                | Quality score (3 to 8) given by wine tasters                 |
+| `quality`                | Quality score (1 to 10) given by wine tasters                 |
 
 
 ## 🎯 Target Variable Imbalance
